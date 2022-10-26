@@ -1,26 +1,32 @@
 [
     {
         "id": 1,
-        "category_name": "Alpha"
+        "category_name": "Pet Training",
+        "course_image": "placeholder.jpg"
     },
     {
         "id": 2,
-        "category_name": "Tempsoft"
+        "category_name": "Pet Parenting",
+        "course_image": "placeholder.jpg"
     },
     {
         "id": 3,
-        "category_name": "Andalax"
+        "category_name": "Paws Health",
+        "course_image": "placeholder.jpg"
     },
     {
         "id": 4,
-        "category_name": "Zamit"
+        "category_name": "Potty Training",
+        "course_image": "placeholder.jpg"
     },
     {
         "id": 5,
-        "category_name": "Tampflex"
+        "category_name": "Pet Welfare",
+        "course_image": "placeholder.jpg"
     },
     {
         "id": 6,
-        "category_name": "Tampflex"
+        "category_name": "Communication",
+        "course_image": "placeholder.jpg"
     }
 ]
