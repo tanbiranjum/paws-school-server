@@ -3,60 +3,65 @@
         "id": 1,
         "category_id": 1,
         "title": "How to train your cat",
-        "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
-        "autho": "Bartlet Pursglove",
-        "image_url": "http://dummyimage.com/196x100.png/5fa2dd/ffffff",
+        "description": "Contrary to popular belief, cats are just as fun to train as dogs! Cat training is a great way to connect with your cat and teach her the meaning of a few key words.",
+        "author": "Tanbir",
+        "image_url": "https://ik.imagekit.io/localghost/3_bhHjF7XzL5.jpg",
         "enrolled": 42,
-        "rating": 2
+        "rating": 2,
+        "price": 79
     },
     {
         "id": 2,
         "category_id": 2,
         "title": "Pet Parenting 101",
-        "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
-        "autho": "Frayda McConnell",
-        "image_url": "http://dummyimage.com/247x100.png/cc0000/ffffff",
+        "description": "Pet parenting and the increasing emotional bond that exists between owner and pet means that it's no longer just about the pet's satisfaction – it's about finding ways for the owner to understand, share in and enjoy the satisfaction that their pet is experiencing.",
+        "author": "Mahbub",
+        "image_url": "https://ik.imagekit.io/localghost/1_FI0CSoB2z.jpg",
         "enrolled": 52,
-        "rating": 2
+        "rating": 2,
+        "price": 45
     },
     {
         "id": 3,
         "category_id": 3,
         "title": "How to calm your pet",
-        "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
-        "autho": "Bastian Regler",
-        "image_url": "http://dummyimage.com/189x100.png/dddddd/000000",
+        "description": "To help keep your cat calm: Try to keep the noises low around your cat, especially when she may be getting stressed due to an unfamiliar environment or person. Help dampen noise when she is in her carrier by using a towel to cover the carrier. Play soothing music in your home if she is becoming agitated.",
+        "author": "Sara Sandro",
+        "image_url": "https://ik.imagekit.io/localghost/2_AlIVkrB7_.jpg",
         "enrolled": 55,
-        "rating": 3
+        "rating": 3,
+        "price": 39
     },
     {
         "id": 4,
         "category_id": 4,
         "title": "Potty training 101",
-        "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
-        "autho": "Meredith Zanioletti",
-        "image_url": "http://dummyimage.com/247x100.png/dddddd/000000",
+        "description": "cat training is teaching your cat to associate a desirable behavior with a reward. By doing so, you can encourage them to stop bad behavior and start desired behavior so you can both live a happier, healthier life.",
+        "author": "Mark Gene",
+        "image_url": "https://ik.imagekit.io/localghost/5_3q3KFTISxo.jpg",
         "enrolled": 1,
-        "rating": 2
+        "rating": 2,
+        "price": 25
     },
     {
         "id": 5,
         "category_id": 5,
         "title": "How to care your kitten 101",
-        "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-        "autho": "Sandro Dawtre",
-        "image_url": "http://dummyimage.com/210x100.png/cc0000/ffffff",
+        "description": "Spend lots of time playing with your kitten every day - mental stimulation is also important, so play games like hiding their food. Try some kitten training such as having them come to you when you call.",
+        "image_url": "https://ik.imagekit.io/localghost/6_82T0i9Qmkd.jpg",
         "enrolled": 23,
-        "rating": 5
+        "rating": 5,
+        "price": 90
     },
     {
         "id": 6,
         "category_id": 6,
         "title": "Pet health guide",
-        "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
-        "autho": "Darren Sporner",
-        "image_url": "http://dummyimage.com/193x100.png/5fa2dd/ffffff",
+        "description": "Regular veterinary visits are essential to good pet health. Talk to your pet's veterinarian about how to keep your pet healthy. Provide your pet with a good diet, fresh water, clean bedding, and plenty of exercise. Keep up with your pet's vaccines, deworming, and flea and tick control.",
+        "author": "Darren Sporner",
+        "image_url": "https://ik.imagekit.io/localghost/4_n47VOMvqMW.jpg",
         "enrolled": 42,
-        "rating": 5
+        "rating": 5,
+        "price": 96
     }
 ]
