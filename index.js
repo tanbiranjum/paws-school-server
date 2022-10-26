@@ -6,6 +6,10 @@ const courses = require("./public/courses.json");
 
 app.use(cors());
 
+app.get("/", (req, res, next) => {
+  res.send("Hi from the Paws School api...");
+});
+
 app.get("/category", (req, res, next) => {
   res.send(categories);
 });
