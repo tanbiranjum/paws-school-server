@@ -10,10 +10,20 @@ app.get("/categories", (req, res, next) => {
   res.send(catagories);
 });
 
-app.get("/category/:id", (req, res) => {
+app.get("/category/:id", (req, res, next) => {
   const id = req.params.id;
   const courses = courses.filter((course) => course.category_id === id);
   res.send(courses);
+});
+
+app.get("/courses", (req, res) => {
+  res.send(courses);
+});
+
+app.get("/courses/:id", (req, res, next) => {
+  const id = req.params.id;
+  const course = courses.filter((course) => course.id === id);
+  send(course);
 });
 
 const PORT = 5000;
